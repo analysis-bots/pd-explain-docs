@@ -7,7 +7,7 @@ copyright = '2025, analysis-bots'
 author = 'analysis-bots'
 release = '1.1.0'
 
-# -- General configuration
+# -- General configuration 
 
 extensions = [
     'sphinx.ext.duration',
