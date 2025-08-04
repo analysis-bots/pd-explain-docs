@@ -5,7 +5,7 @@
 project = 'pd-explain'
 copyright = '2025, analysis-bots'
 author = 'analysis-bots'
-release = '1.0.1'
+release = '1.1.0'
 
 # -- General configuration
 

@@ -13,7 +13,7 @@ Method Signature
     ExpSeries.explain(
         use_sampling : bool | None = None,
         sample_size : int | float = 5000,
-        explainer: Literal['fedex', 'outlier', 'many_to_one', 'shapley']='fedex',
+        explainer: Literal['fedex', 'outlier', 'many_to_one', 'shapley', 'metainsight']='fedex',
         target=None,
         dir: Literal["high", "low", 1, -1] = None,
         control=None,

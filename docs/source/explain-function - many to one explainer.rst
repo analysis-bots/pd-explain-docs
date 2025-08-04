@@ -10,7 +10,7 @@ Method Signature
 .. code-block:: python
 
    ExpDataFrame.explain(
-    explainer: Literal['fedex', 'outlier', 'many_to_one', 'shapley']='fedex',
+    explainer: Literal['fedex', 'outlier', 'many_to_one', 'shapley', 'metainsight']='fedex',
     attributes: List = None,
     use_sampling: bool | None = None,
     sample_size: int | float = 5000
