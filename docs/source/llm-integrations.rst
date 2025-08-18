@@ -11,7 +11,7 @@ PD-Explain provides several integrations with large language models (LLMs) to pr
 Setup
 ----------------------
 Each LLM functionality has its own settings which can be controlled separately.
-Please refer to the `setup guide in our github repository <https://github.com/analysis-bots/pd-explain/blob/main/Examples/Notebooks/LLM%20Setup%20Guide.ipynb>`_.
+Please refer to the `setup guide in our github repository <https://github.com/analysis-bots/pd-explain/blob/main/Examples/Notebooks/LLM%20Features%20Examples/LLM%20Setup%20Guide.ipynb>`_.
 
 Reasoning
 --------------------------
@@ -101,7 +101,7 @@ Example Usage
         "Explore the effect that education and occupation have on one's capital-loss and capital-gain"
     )
 
-Please see our `demo notebook <https://github.com/analysis-bots/pd-explain/blob/main/Examples/Notebooks/LLM%20Automated%20Exploration%20Demo.ipynb>`_ for examples of the output of the automated data exploration functionality's output.
+Please see our `demo notebook <https://github.com/analysis-bots/pd-explain/blob/main/Examples/Notebooks/LLM%20Features%20Examples/Automated%20Exploration/LLM%20Automated%20Exploration%20Demo.ipynb>`_ for examples of the output of the automated data exploration functionality's output.
 
 Saving and Loading Exploration Results
 ************************************************
